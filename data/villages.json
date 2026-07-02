@@ -1,0 +1,9 @@
+{
+  "villages": [
+    {"id": "V001", "name": "Nairobi", "lat": -1.286, "lon": 36.817, "population": 500, "battery_capacity": 200},
+    {"id": "V002", "name": "Kisumu", "lat": -0.102, "lon": 34.762, "population": 350, "battery_capacity": 150},
+    {"id": "V003", "name": "Mombasa", "lat": -4.043, "lon": 39.668, "population": 400, "battery_capacity": 180},
+    {"id": "V004", "name": "Turkana", "lat": 3.125, "lon": 35.597, "population": 200, "battery_capacity": 300},
+    {"id": "V005", "name": "Meru", "lat": 0.050, "lon": 37.650, "population": 300, "battery_capacity": 250}
+  ]
+}
